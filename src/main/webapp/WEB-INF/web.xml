@@ -16,7 +16,7 @@
   </filter-mapping>
 
   <welcome-file-list>
-    <welcome-file>traccar.html</welcome-file>
+    <welcome-file>mosco.html</welcome-file>
     <welcome-file>index.html</welcome-file>
   </welcome-file-list>
   
@@ -25,6 +25,6 @@
   </session-config>
 
   <listener>
-    <listener-class>org.traccar.web.server.model.GuiceServletConfig</listener-class>
+    <listener-class>org.mosco.web.server.model.GuiceServletConfig</listener-class>
   </listener>
 </web-app>

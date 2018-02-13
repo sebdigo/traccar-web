@@ -6,11 +6,11 @@
 
   <!-- POM file generated with GWT webAppCreator -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.traccar</groupId>
-  <artifactId>traccar-web</artifactId>
+  <groupId>org.mosco</groupId>
+  <artifactId>mosco-web</artifactId>
   <packaging>war</packaging>
   <version>0.12.3</version>
-  <name>Traccar Web UI</name>
+  <name>mosco Web UI</name>
 
   <properties>
     <!-- Convenience property to set the hibernate version -->
@@ -215,14 +215,14 @@
         <version>${gwtVersion}</version>
         <configuration>
           <deploy>${project.build.directory}/gwt-deploy</deploy>
-          <runTarget>traccar.html</runTarget>
+          <runTarget>mosco.html</runTarget>
 	  <hostedWebapp>${webappDirectory}</hostedWebapp>
           <extraJvmArgs>-Xmx1G -Xss1024k</extraJvmArgs>
         </configuration>
         <executions>
           <execution>
             <configuration>
-              <module>org.traccar.web.Traccar</module>
+              <module>org.mosco.web.mosco</module>
             </configuration>
             <goals>
               <goal>compile</goal>

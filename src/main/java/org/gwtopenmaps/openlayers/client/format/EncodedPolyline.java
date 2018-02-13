@@ -1,5 +1,5 @@
 /*
- * Copyright 2015 Vitaly Litvak (vitavaque@gmail.com)
+ * Copyright 2015 Mosco (info@mosco.in)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@ import org.gwtopenmaps.openlayers.client.util.JSObject;
  *
  * Reference to EncodedPolyline specification.
  *
- * @author Vitaly Litvak
+ * @author Mosco
  */
 public class EncodedPolyline extends VectorFormat
 {

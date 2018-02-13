@@ -1,42 +1,42 @@
-# traccar-web
+# mosco-web
 
-Web page - http://traccar.litvak.su
+Web page - http://mosco.in
 
-News - http://traccar.litvak.su/news.html
+News - http://mosco.in/news.html
 
-Demo - http://traccar.litvak.su/demo.html
+Demo - http://mosco.in/demo.html
 
-Authors: Anton Tananaev (anton.tananaev@gmail.com), Vitaly Litvak (vitavaque@gmail.com)
+Authors: Mosco (info@mosco.in), Mosco (info@mosco.in)
 
-Support project - [donate](http://traccar.litvak.su/donate.html)
+Support project - [donate](http://mosco.in/donate.html)
 
 ## Summary
 
-Web interface for traccar server.
+Web interface for mosco server.
 
 ## Installation
 
-See [installation instructions on official web site](http://traccar.litvak.su/installation.html).
+See [installation instructions on official web site](http://mosco.in/installation.html).
 
 ## Features
 
-See complete [features list on official web site](http://traccar.litvak.su/features/).
+See complete [features list on official web site](http://mosco.in/features/).
 
 ## Building
 
-See [building instructions on official web site](http://traccar.litvak.su/building.html)
+See [building instructions on official web site](http://mosco.in/building.html)
 
 ## Eclipse
 
-See [Eclipse IDE setup instructions on official web site](http://traccar.litvak.su/ide/eclipse.html)
+See [Eclipse IDE setup instructions on official web site](http://mosco.in/ide/eclipse.html)
 
 ## IntelliJ IDEA
 
-See [IntelliJ IDEA IDE setup instructions on official web site](http://traccar.litvak.su/ide/idea.html)
+See [IntelliJ IDEA IDE setup instructions on official web site](http://mosco.in/ide/idea.html)
 
 ## NetBeans
 
-See [NetBeans IDE setup instructions on official web site](http://traccar.litvak.su/ide/netbeans.html)
+See [NetBeans IDE setup instructions on official web site](http://mosco.in/ide/netbeans.html)
 
 ## License
 
@@ -53,4 +53,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
